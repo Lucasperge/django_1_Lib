@@ -1,0 +1,20 @@
+Collecting git+https://github.com/jaraco/path.git
+  Cloning https://github.com/jaraco/path.git to /tmp/pip-req-build-5j9__xj0
+  Running command git clone --filter=blob:none --quiet https://github.com/jaraco/path.git /tmp/pip-req-build-5j9__xj0
+  Resolved https://github.com/jaraco/path.git to commit 3ccc4bacb22fb51f2d8798716d7a72cc62f23145
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: path
+  Building wheel for path (pyproject.toml): started
+  Building wheel for path (pyproject.toml): finished with status 'done'
+  Created wheel for path: filename=path-17.1.1.dev17+g3ccc4ba-py3-none-any.whl size=23190 sha256=f113bf8d053420031125f851a54f3e6d9992b1fb7eccf078e5efacce1a21a76c
+  Stored in directory: /tmp/pip-ephem-wheel-cache-bcsy8wp0/wheels/45/7f/61/5e05589d3f3473f0956765b114f9dcd7c387a1f82bab642154
+Successfully built path
+Installing collected packages: path
+Successfully installed path-17.1.1.dev17+g3ccc4ba
+WARNING: Target directory /home/lucasperge/Piscine-django/django_1_Lib/exo_01/local_lib/path already exists. Specify --upgrade to force replacement.
+WARNING: Target directory /home/lucasperge/Piscine-django/django_1_Lib/exo_01/local_lib/path-17.1.1.dev17+g3ccc4ba.dist-info already exists. Specify --upgrade to force replacement.
